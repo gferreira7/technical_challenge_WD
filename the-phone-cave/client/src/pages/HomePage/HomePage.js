@@ -28,17 +28,16 @@ function HomePage() {
           <Container className='text-light p-5 z-1'>
             <h1>Welcome to The Phone cave! </h1>
             <p
-              className='m-5 px-5'
-              style={{ textAlign: 'center' }}
+              className='m-3 px-2 text-sm tex'
+              style={{ textAlign: 'left' }}
             >
               Discover the latest smartphones from top brands such as Apple,
               Samsung, and Google. Shop with us and find the perfect phone to
-              fit your lifestyle and budget. Enjoy free shipping on all orders
-              and exceptional customer service. Upgrade your phone today!
+              fit your lifestyle and budget.
             </p>
             <Button
               href='/phones'
-              variant='light'
+              variant='outline-light'
             >
               Browse the Shop
             </Button>
