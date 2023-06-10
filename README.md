@@ -1,3 +1,19 @@
+# Phone Shop App
+
+This is a simple phone shop app built with React and Express. It allows users to view a list of phones and their details.
+
+## Getting Started
+
+To get started, clone this repository and run the following commands:
+
+```js
+
+cd phone-shop-app
+npm install
+npm start
+
+```
+
 This will start the development server and open the app in your default browser.
 
 The app has two routes:
